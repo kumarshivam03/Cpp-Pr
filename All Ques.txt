@@ -1,0 +1,10 @@
+234->palindrome check linked list
+328->odd-even linked list
+19- remove the nth node from back
+160 intersection of ll
+8-string of atoi
+50 -power n^x
+1922 -count no of good no
+22-generate parenthesis
+
+
